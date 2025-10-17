@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.obj
+
+# Temporary files
+*.log
+*.tmp
+
+# VS Code or editor settings (optional)
+.vscode/
+*.code-workspace
