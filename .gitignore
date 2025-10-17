@@ -1,3 +1,6 @@
+# macOS system files
+.DS_Store
+
 # Compiled object files
 *.o
 
@@ -20,6 +23,6 @@
 *.log
 *.tmp
 
-# VS Code or editor settings (optional)
+# VS Code or editor settings
 .vscode/
 *.code-workspace
